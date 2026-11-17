@@ -17,4 +17,4 @@ I'm a software developer all about problem solving, system design,<br>Cloud and 
 # Konman Download Stats:
 [![PyPI Downloads](https://static.pepy.tech/personalized-badge/konman?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/konman)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
