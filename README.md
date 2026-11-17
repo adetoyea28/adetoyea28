@@ -13,7 +13,8 @@ I'm a software developer all about problem solving, system design,<br>Cloud and 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=adetoyea28&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=adetoyea28&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# Konman Download Stats:
 [![PyPI Downloads](https://static.pepy.tech/personalized-badge/konman?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/konman)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
